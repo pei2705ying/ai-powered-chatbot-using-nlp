@@ -39,7 +39,7 @@ Run main.py.
 ## Usage
 ```
 # Run the chatbot
-python chatbot.py
+python main.py
 ```
 Then, start interacting with the chatbot by typing your questions!
 
