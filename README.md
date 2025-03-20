@@ -17,19 +17,10 @@ This project is an **AI-powered chatbot** designed to answer **elementary and mi
 - **Scikit-learn** – Implements TF-IDF and Cosine Similarity
 - **Pandas** – For data handling and analysis
 
-## Installation & Setup
-```
-# Clone the repository
-git clone https://github.com/yourusername/chatbot-nlp.git
-cd chatbot-nlp
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-```
+## Usage
+Clone the repository.
+Install the required dependencies.
+Run main.py.
 
 ## How It Works
 1. **Preprocess User Input**
