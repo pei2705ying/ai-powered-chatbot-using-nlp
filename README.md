@@ -20,7 +20,8 @@ This project is an **AI-powered chatbot** designed to answer **elementary and mi
 ## Usage
 Clone the repository.
 Install the required dependencies.
-Run main.py.
+Run main.ipynb.
+Then, start interacting with the chatbot by typing your questions!
 
 ## How It Works
 1. **Preprocess User Input**
@@ -35,13 +36,6 @@ Run main.py.
 3. **Generate a Response**
    - Returns the **most relevant answer** from the knowledge base
    - If no strong match is found, the chatbot asks for clarification
-
-## Usage
-```
-# Run the chatbot
-python main.py
-```
-Then, start interacting with the chatbot by typing your questions!
 
 ## Evaluation & Performance
 The chatbot was tested with:
