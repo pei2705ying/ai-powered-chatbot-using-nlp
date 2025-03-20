@@ -52,6 +52,9 @@ The chatbot was tested with:
 ## Potential Impact
 This chatbot can evolve into a **fact-based AI assistant** capable of retrieving and verifying data more efficiently than traditional search engines.
 
+## 🎥 Project Demo  
+[▶ Watch the video](https://drive.google.com/file/d/1eXF7XoEbbRrdge5RlQkiZsK5wKh_KB0s/view?usp=drive_link)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
